@@ -1,6 +1,6 @@
-# **VERSÃO 2**
+# **VERSÃO 3**
 
-# Aula prática - Markdown
+# Aula prática - Markdown <img src="https://media1.tenor.com/m/Q1YqIlHAo_gAAAAd/mandalorian-mando.gif" width="30px">
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
 
